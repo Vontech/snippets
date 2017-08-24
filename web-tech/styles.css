@@ -1,0 +1,14 @@
+/** A collection of CSS tyling snippets **/
+
+/* Circular Profile Image */
+/* profile image circle circular round professional picture */
+/* Notes: Attach this class to an <img> tag. Feel free to change height and width. */
+.circular-image {
+    display: inline-block;
+    width: 225px;
+    height: 225px;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+}
